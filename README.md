@@ -53,6 +53,7 @@ The system simulates core banking functionalities like account login, balance in
 <br>
 ### 🙌 Author:
 <br>
-- Ankesh Agrawal
+- Aayushi Soni
+
 <br>
 
